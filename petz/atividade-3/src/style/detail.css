@@ -1,0 +1,8 @@
+.rectangle {
+    display: inline-block;
+    width: .3em; 
+    height: .7em; 
+    background-color: #4D7A8C;
+    margin-right: 0.2em; 
+  }
+  
